@@ -8,8 +8,8 @@ LIME generates human-readable explanations by highlighting the regions of the im
 
 ## Results
 
-![Family](https://github.com/SahandNoey/Explaining-Image-Classification-using-LIME/blob/master/family_output.jpg)
-![Penguin](https://github.com/SahandNoey/Explaining-Image-Classification-using-LIME/blob/master/penguin_output.jpg)
+![Family](https://github.com/SahandNoey/Explaining-Image-Classification-using-LIME/blob/master/family_output.png)
+![Penguin](https://github.com/SahandNoey/Explaining-Image-Classification-using-LIME/blob/master/penguin_output.png)
 
 
 - _**The image in the center** highlights the **top 5 superpixels** that had the most positive influence on the model's classification decision (contributed the most to the prediction with the highest probability)._
